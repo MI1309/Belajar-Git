@@ -1,0 +1,3 @@
+git config --global user.name = untuk mengkonfigurasi git untuk menambahkan nama user dari github
+
+git config --global user.email = untuk mengkonfigurasi git untuk menambahkan email yang sudah dibuat di github

@@ -1,0 +1,3 @@
+git commit -m "nama pesan" = untuk menyimpan histori kode
+
+git commit -am "nama pesan" = untuk menyimpan perubahan kode yang telah dibuat

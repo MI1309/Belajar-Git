@@ -1,0 +1,1 @@
+git init = untuk menginisialisasi sebuah folder lokal agar bisa menggunakan git
